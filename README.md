@@ -1,6 +1,4 @@
-# Energy-Consumption-Forecasting
-
-# ⚡ Energy Consumption Forecasting (PyTorch LSTM)
+# Energy Consumption Forecasting (PyTorch LSTM)
 
 Прогнозирование почасового энергопотребления производственного участка на основе временных рядов с помощью рекуррентной нейросети (LSTM), реализованной на PyTorch.
 
